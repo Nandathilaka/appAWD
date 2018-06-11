@@ -1,0 +1,15 @@
+{
+  "name": "appawd",
+  "version": "1.0.0",
+  "description": "This is Advance Web Development Project for UCSC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Thilina Chamika - (UCSC)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
