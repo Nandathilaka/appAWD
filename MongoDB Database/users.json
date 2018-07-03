@@ -1,0 +1,76 @@
+{ 
+    "_id" : ObjectId("5b28c6a26f82eb1fe867fb70"), 
+    "index_no" : "15001059", 
+    "registration_no" : "2015cs105", 
+    "user_name" : "LGC Prabuddha", 
+    "full_name" : "Liyana Guruge Charaka Prabuddha", 
+    "mobile_no" : "0716131767", 
+    "fixed_no" : "0716131767", 
+    "email" : "C@gmail.com", 
+    "password" : "$2a$10$JajCXTQy.SWZeDd6KhjvvOKbpiPUwvUhQah76AwFK6xXgqt3p3Gma", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2e0431682a512d6854b8b3"), 
+    "index_no" : "15001060", 
+    "registration_no" : "2015cs106", 
+    "user_name" : "LGC Prabuddha", 
+    "full_name" : "Liyana Guruge Charaka Prabuddha", 
+    "mobile_no" : "0716131767", 
+    "fixed_no" : "0716131767", 
+    "email" : "C@gmail.com", 
+    "password" : "$2a$10$8TFMLHQe.skPoCUXEuddCOcITbk7LQoF3yDM/HpBZamyETvfIjjDq", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2e0a698f6f8011000f2659"), 
+    "index_no" : "15001070", 
+    "registration_no" : "2015cs107", 
+    "user_name" : "LGC Prabuddha", 
+    "full_name" : "Liyana Guruge Charaka Prabuddha", 
+    "mobile_no" : "0716131767", 
+    "fixed_no" : "0716131767", 
+    "email" : "Cds@gmail.com", 
+    "password" : "$2a$10$E95g4mozhNOHlHGqkR0i4OO/BJtKWsbhvRWf8WTOWI5ZhfXcZA08G", 
+    "category" : "admin", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2e6c8aa42b5c0efcee5435"), 
+    "index_no" : "15001071", 
+    "registration_no" : "2015cs108", 
+    "user_name" : "LGC Prabuddha", 
+    "full_name" : "Liyana Guruge Charaka Prabuddha", 
+    "mobile_no" : "0716131767", 
+    "fixed_no" : "0716131767", 
+    "email" : "Clkhh@gmail.com", 
+    "password" : "$2a$10$7/OsHuUjOnXFjl8pFFlUSen.YAkIvPCd2rkN9lRu2AnFfnvbmNc/u", 
+    "category" : "cs", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2e7089a42b5c0efcee5436"), 
+    "index_no" : "15001072", 
+    "registration_no" : "2015cs109", 
+    "user_name" : "LGC Prabuddha", 
+    "full_name" : "Liyana Guruge Charaka Prabuddha", 
+    "mobile_no" : "0716131767", 
+    "fixed_no" : "0716131767", 
+    "email" : "Cdsere@gmail.com", 
+    "password" : "$2a$10$gGeq9TMODFQ/sSelBo7T6OYfNzWAhkkbyhTUsTeDYc5dDr.wUGChe", 
+    "category" : "is", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31ceb60555681b884ad682"), 
+    "index_no" : "1500105943", 
+    "registration_no" : "2015is110", 
+    "user_name" : "LGC Prabuddha", 
+    "full_name" : "Liyana Guruge Charaka Prabuddha", 
+    "mobile_no" : "0716131767", 
+    "fixed_no" : "0716131767", 
+    "email" : "Clkhh@gmail.com", 
+    "password" : "$2a$10$Gpvi91/G3kQ9knsglHos5eEv34430naG7D8W2SCS/ywZJRWX16aAW", 
+    "category" : "is", 
+    "__v" : NumberInt(0)
+}

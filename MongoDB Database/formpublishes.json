@@ -1,0 +1,73 @@
+{ 
+    "_id" : ObjectId("5b2f30ae4db8151cb0753af0"), 
+    "year" : "7895", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2f322f4db8151cb0753af1"), 
+    "year" : "1023", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2f3275b6e3c913f0e711d6"), 
+    "semester" : "semI", 
+    "year" : "1023", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2f3308ce0b1511c4170d26"), 
+    "semester" : "semI", 
+    "year" : "2018", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2f3364ce0b1511c4170d27"), 
+    "semester" : "semI", 
+    "year" : "2018", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2f3373ce0b1511c4170d28"), 
+    "semester" : "semII", 
+    "year" : "2018", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2f684e7c4d551c04e8d575"), 
+    "semester" : "Semester I", 
+    "year" : "2018", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b3066698cc4431ef86bb45d"), 
+    "semester" : "Semester II", 
+    "year" : "2018", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b3066acb33f3d052c917fc3"), 
+    "semester" : "Semester I", 
+    "year" : "2018", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b3066e34203c608a834835b"), 
+    "semester" : "Semester II", 
+    "year" : "2018", 
+    "lastDate" : "2018-06-29", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b3066e34203c608a834835c"), 
+    "semester" : "Semester II", 
+    "year" : "2018", 
+    "lastDate" : "2018-06-29", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b3609e857d18f28240be6da"), 
+    "semester" : "Semester I", 
+    "year" : "2018", 
+    "lastDate" : "2018-06-29", 
+    "__v" : NumberInt(0)
+}

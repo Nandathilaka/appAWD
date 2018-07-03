@@ -1,3 +1,5 @@
-module.exports={
-    "database":"mongodb://localhost:27017/appawd"
+module.exports = {
+
+	"database":"mongodb://localhost:27017/exam",
+	"secret":"myapplicationsecretkey"
 };

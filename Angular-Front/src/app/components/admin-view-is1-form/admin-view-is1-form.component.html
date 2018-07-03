@@ -1,0 +1,134 @@
+<div #content1>
+  <h2>1<sup>st</sup> Year 1<sup>st</sup> Semester Repeat all Students</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">ENH 1001</th>
+        <th scope="col">IS 1001</th>
+        <th scope="col">IS 1002</th>
+        <th scope="col">IS 1003</th>
+        <th scope="col">IS 1004</th>
+        <th scope="col">IS 1005</th>
+        <th scope="col">IS 1006</th>
+        <th scope="col">IS 1007</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let isRepeatView of isRepeatViewssec">
+        <th>{{isRepeatView.uIndex_no}}</th>
+        <td>{{isRepeatView.ENH_1001}}</td>
+        <td>{{isRepeatView.IS_1001}}</td>
+        <td>{{isRepeatView.IS_1002}}</td>
+        <td>{{isRepeatView.IS_1003}}</td>
+        <td>{{isRepeatView.IS_1004}}</td>
+        <td>{{isRepeatView.IS_1005}}</td>
+        <td>{{isRepeatView.IS_1006}}</td>
+        <td>{{isRepeatView.IS_1007}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button type="button" class="btn btn-success" (click)="downloadPDF1()">Report</button>
+  <br>
+  <br>
+</div>
+<br>
+<br>
+<div #content2>
+    <h2>2<sup>nd</sup> Year 2<sup>nd</sup> Semester Repeat all Students</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">ENH_2001</th>
+        <th scope="col">IS 2003</th>
+        <th scope="col">IS 2004</th>
+        <th scope="col">IS 2005</th>
+        <th scope="col">IS 2006</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let isRepeatView of isRepeatViewssec">
+        <th>{{isRepeatView.uIndex_no}}</th>
+        <td>{{isRepeatView.ENH_2001}}</td>
+        <td>{{isRepeatView.IS_2003}}</td>
+        <td>{{isRepeatView.IS_2004}}</td>
+        <td>{{isRepeatView.IS_2005}}</td>
+        <td>{{isRepeatView.IS_2006}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button type="button" class="btn btn-success" (click)="downloadPDF2()">Report</button>
+  <br>
+  <br>
+</div>
+<br>
+<br>
+<div #content3>
+    <h2>3<sup>3r</sup> Year 3<sup>rd</sup> Semester Repeat all Students</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">IS 3001</th>
+        <th scope="col">IS 3002</th>
+        <th scope="col">IS 3003</th>
+        <th scope="col">IS 3004</th>
+        <th scope="col">IS 3005</th>
+        <th scope="col">IS 3006</th>
+        <th scope="col">IS 3007</th>
+        <th scope="col">IS 3008</th>
+        <th scope="col">IS 3009</th>
+        <th scope="col">IS 3010</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let isRepeatView of isRepeatViewssec">
+        <th>{{isRepeatView.uIndex_no}}</th>
+        <td>{{isRepeatView.IS_3001}}</td>
+        <td>{{isRepeatView.IS_3002}}</td>
+        <td>{{isRepeatView.IS_3003}}</td>
+        <td>{{isRepeatView.IS_3004}}</td>
+        <td>{{isRepeatView.IS_3005}}</td>
+        <td>{{isRepeatView.IS_3006}}</td>
+        <td>{{isRepeatView.IS_3007}}</td>
+        <td>{{isRepeatView.IS_3008}}</td>
+        <td>{{isRepeatView.IS_3009}}</td>
+        <td>{{isRepeatView.IS_3010}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <br>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">IS 3011</th>
+        <th scope="col">IS 3012</th>
+        <th scope="col">IS 3013</th>
+        <th scope="col">IS 3014</th>
+        <th scope="col">IS 3015</th>
+        <th scope="col">IS 3016</th>
+        <th scope="col">IS 3017</th>
+        <th scope="col">IS 3018</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let isRepeatView of isRepeatViewssec">
+        <th>{{isRepeatView.uIndex_no}}</th>
+        <td>{{isRepeatView.IS_3011}}</td>
+        <td>{{isRepeatView.IS_3012}}</td>
+        <td>{{isRepeatView.IS_3013}}</td>
+        <td>{{isRepeatView.IS_3014}}</td>
+        <td>{{isRepeatView.IS_3015}}</td>
+        <td>{{isRepeatView.IS_3016}}</td>
+        <td>{{isRepeatView.IS_3017}}</td>
+        <td>{{isRepeatView.IS_3018}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button type="button" class="btn btn-success" (click)="downloadPDF3()">Report</button>
+  <br>
+  <br>
+</div>

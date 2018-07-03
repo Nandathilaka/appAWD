@@ -1,0 +1,382 @@
+{ 
+    "_id" : ObjectId("5b28c6c26f82eb1fe867fb71"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "ENH_2101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c6c4a4e1fc00c18d0ff9c"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c6f034e1fc00c18d0ff9d"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c6fdd4e1fc00c18d0ff9e"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c700d4e1fc00c18d0ff9f"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c707a4e1fc00c18d0ffa0"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c71327aeecb2ee80b6661"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c777b7aeecb2ee80b6662"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c77dc7aeecb2ee80b6665"), 
+    "uIndex_no" : "15001059", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c7b4c7aeecb2ee80b6666"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c7dcd7aeecb2ee80b6667"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "true", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c92bb5ec934125cd41931"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2c936e5ec934125cd41932"), 
+    "uIndex_no" : "15001059", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "SCS_1103" : "Database I (SCS 1103)", 
+    "SCS_1104" : "Mathematical Methods I (SCS 1104)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2dbd2564b8191a9c9f5994"), 
+    "uIndex_no" : "2015cs105", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31cc9847dfd706484bfde6"), 
+    "uIndex_no" : "2015cs109", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31cced47dfd706484bfde8"), 
+    "uIndex_no" : "2015cs109", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31cd9047dfd706484bfdea"), 
+    "uIndex_no" : "2015cs109", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31ce230555681b884ad680"), 
+    "uIndex_no" : "2015cs109", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31cee90555681b884ad684"), 
+    "uIndex_no" : "2015is110", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b3250fb48e1382430c5b149"), 
+    "uIndex_no" : "2015cs108", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b35c6b374a4e51030607fb4"), 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "SCS_1103" : "---", 
+    "SCS_1104" : "---", 
+    "SCS_1105" : "---", 
+    "SCS_1106" : "---", 
+    "ENH_2101" : "---", 
+    "SCS_2101" : "---", 
+    "SCS_2102" : "---", 
+    "SCS_2103" : "---", 
+    "SCS_2104" : "---", 
+    "SCS_2105" : "---", 
+    "SCS_3101" : "---", 
+    "SCS_3102" : "---", 
+    "SCS_3103" : "---", 
+    "SCS_3104" : "---", 
+    "SCS_3105" : "---", 
+    "SCS_3106" : "---", 
+    "SCS_3107" : "---", 
+    "SCS_3108" : "---", 
+    "SCS_3109" : "---", 
+    "SCS_3110" : "---", 
+    "SCS_3111" : "---", 
+    "SCS_3112" : "---", 
+    "SCS_3113" : "---", 
+    "SCS_3114" : "---", 
+    "SCS_3115" : "---", 
+    "SCS_3116" : "---", 
+    "SCS_3118" : "---", 
+    "SCS_3119" : "---", 
+    "SCS_3120" : "---", 
+    "uIndex_no" : "2015cs108", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b35cd29f8bb281a3830e7c1"), 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "SCS_1103" : "---", 
+    "SCS_1104" : "---", 
+    "SCS_1105" : "---", 
+    "SCS_1106" : "---", 
+    "ENH_2101" : "---", 
+    "SCS_2101" : "---", 
+    "SCS_2102" : "---", 
+    "SCS_2103" : "---", 
+    "SCS_2104" : "---", 
+    "SCS_2105" : "---", 
+    "SCS_3101" : "---", 
+    "SCS_3102" : "---", 
+    "SCS_3103" : "---", 
+    "SCS_3104" : "---", 
+    "SCS_3105" : "---", 
+    "SCS_3106" : "---", 
+    "SCS_3107" : "---", 
+    "SCS_3108" : "---", 
+    "SCS_3109" : "---", 
+    "SCS_3110" : "---", 
+    "SCS_3111" : "---", 
+    "SCS_3112" : "---", 
+    "SCS_3113" : "---", 
+    "SCS_3114" : "---", 
+    "SCS_3115" : "---", 
+    "SCS_3116" : "---", 
+    "SCS_3118" : "---", 
+    "SCS_3119" : "---", 
+    "SCS_3120" : "---", 
+    "uIndex_no" : "2015cs108", 
+    "receipt_no" : "12345", 
+    "year" : ISODate("2018-06-29T06:09:45.289+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b35ce35629c781fe0bbce1c"), 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "SCS_1103" : "---", 
+    "SCS_1104" : "---", 
+    "SCS_1105" : "---", 
+    "SCS_1106" : "---", 
+    "ENH_2101" : "---", 
+    "SCS_2101" : "---", 
+    "SCS_2102" : "---", 
+    "SCS_2103" : "---", 
+    "SCS_2104" : "---", 
+    "SCS_2105" : "---", 
+    "SCS_3101" : "---", 
+    "SCS_3102" : "---", 
+    "SCS_3103" : "---", 
+    "SCS_3104" : "---", 
+    "SCS_3105" : "---", 
+    "SCS_3106" : "---", 
+    "SCS_3107" : "---", 
+    "SCS_3108" : "---", 
+    "SCS_3109" : "---", 
+    "SCS_3110" : "---", 
+    "SCS_3111" : "---", 
+    "SCS_3112" : "---", 
+    "SCS_3113" : "---", 
+    "SCS_3114" : "---", 
+    "SCS_3115" : "---", 
+    "SCS_3116" : "---", 
+    "SCS_3118" : "---", 
+    "SCS_3119" : "---", 
+    "SCS_3120" : "---", 
+    "uIndex_no" : "2015cs108", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b35ceffc2a82412bc12bc9d"), 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "SCS_1103" : "Database I (SCS 1103)", 
+    "SCS_1104" : "---", 
+    "SCS_1105" : "---", 
+    "SCS_1106" : "---", 
+    "ENH_2101" : "---", 
+    "SCS_2101" : "---", 
+    "SCS_2102" : "---", 
+    "SCS_2103" : "---", 
+    "SCS_2104" : "---", 
+    "SCS_2105" : "---", 
+    "SCS_3101" : "---", 
+    "SCS_3102" : "---", 
+    "SCS_3103" : "---", 
+    "SCS_3104" : "---", 
+    "SCS_3105" : "---", 
+    "SCS_3106" : "---", 
+    "SCS_3107" : "---", 
+    "SCS_3108" : "---", 
+    "SCS_3109" : "---", 
+    "SCS_3110" : "---", 
+    "SCS_3111" : "---", 
+    "SCS_3112" : "---", 
+    "SCS_3113" : "---", 
+    "SCS_3114" : "---", 
+    "SCS_3115" : "---", 
+    "SCS_3116" : "---", 
+    "SCS_3118" : "---", 
+    "SCS_3119" : "---", 
+    "SCS_3120" : "---", 
+    "uIndex_no" : "2015cs108", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b35cf6986666a2a5406977f"), 
+    "year" : ISODate("1970-01-01T00:00:02.018+0000"), 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "Data Structures and Algorithms I (SCS 1101)", 
+    "SCS_1102" : "Pragramming I (SCS 1102)", 
+    "SCS_1103" : "---", 
+    "SCS_1104" : "---", 
+    "SCS_1105" : "---", 
+    "SCS_1106" : "---", 
+    "ENH_2101" : "---", 
+    "SCS_2101" : "---", 
+    "SCS_2102" : "---", 
+    "SCS_2103" : "---", 
+    "SCS_2104" : "---", 
+    "SCS_2105" : "---", 
+    "SCS_3101" : "---", 
+    "SCS_3102" : "---", 
+    "SCS_3103" : "---", 
+    "SCS_3104" : "---", 
+    "SCS_3105" : "---", 
+    "SCS_3106" : "---", 
+    "SCS_3107" : "---", 
+    "SCS_3108" : "---", 
+    "SCS_3109" : "---", 
+    "SCS_3110" : "---", 
+    "SCS_3111" : "---", 
+    "SCS_3112" : "---", 
+    "SCS_3113" : "---", 
+    "SCS_3114" : "---", 
+    "SCS_3115" : "---", 
+    "SCS_3116" : "---", 
+    "SCS_3118" : "---", 
+    "SCS_3119" : "---", 
+    "SCS_3120" : "---", 
+    "uIndex_no" : "2015cs108", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b35cf8b8188502260fcd8f9"), 
+    "year" : "2018", 
+    "ENH_1101" : "Enhancement I (ENH 1101)", 
+    "SCS_1101" : "---", 
+    "SCS_1102" : "---", 
+    "SCS_1103" : "---", 
+    "SCS_1104" : "---", 
+    "SCS_1105" : "---", 
+    "SCS_1106" : "---", 
+    "ENH_2101" : "---", 
+    "SCS_2101" : "---", 
+    "SCS_2102" : "---", 
+    "SCS_2103" : "---", 
+    "SCS_2104" : "---", 
+    "SCS_2105" : "---", 
+    "SCS_3101" : "---", 
+    "SCS_3102" : "---", 
+    "SCS_3103" : "---", 
+    "SCS_3104" : "---", 
+    "SCS_3105" : "---", 
+    "SCS_3106" : "---", 
+    "SCS_3107" : "---", 
+    "SCS_3108" : "---", 
+    "SCS_3109" : "---", 
+    "SCS_3110" : "---", 
+    "SCS_3111" : "---", 
+    "SCS_3112" : "---", 
+    "SCS_3113" : "---", 
+    "SCS_3114" : "---", 
+    "SCS_3115" : "---", 
+    "SCS_3116" : "---", 
+    "SCS_3118" : "---", 
+    "SCS_3119" : "---", 
+    "SCS_3120" : "---", 
+    "uIndex_no" : "2015cs108", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,76 @@
+{ 
+    "_id" : ObjectId("5b31cf6d7ea7c119c8b5983b"), 
+    "uIndex_no" : "2015is110", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31cf957ea7c119c8b5983c"), 
+    "uIndex_no" : "2015is110", 
+    "IS_1001" : "Programming and Problem Solving (IS 1001)", 
+    "IS_1002" : "Computer Systems (IS 1002)", 
+    "IS_1003" : "Information Systems Concepts (IS 1003)", 
+    "IS_1004" : "Applications Laboratory (IS1004)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31cfbf7ea7c119c8b5983d"), 
+    "uIndex_no" : "2015is110", 
+    "IS_1001" : "Programming and Problem Solving (IS 1001)", 
+    "IS_1002" : "Computer Systems (IS 1002)", 
+    "IS_1003" : "Information Systems Concepts (IS 1003)", 
+    "IS_1004" : "Applications Laboratory (IS1004)", 
+    "ENH_2001" : "Industrial Practices (EN 2001)", 
+    "IS_2003" : " Marketing (IS 2003)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31d0007ea7c119c8b5983e"), 
+    "uIndex_no" : "2015is110", 
+    "IS_1001" : "Programming and Problem Solving (IS 1001)", 
+    "IS_1002" : "Computer Systems (IS 1002)", 
+    "IS_1003" : "Information Systems Concepts (IS 1003)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31d344266f4f1e94980354"), 
+    "uIndex_no" : "2015is110", 
+    "ENH_1001" : "Communication & Life Skills (EN 1001)", 
+    "IS_1001" : "Programming and Problem Solving (IS 1001)", 
+    "IS_1002" : "Computer Systems (IS 1002)", 
+    "IS_1003" : "Information Systems Concepts (IS 1003)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31d40489582021085d88cd"), 
+    "uIndex_no" : "2015is110", 
+    "ENH_1001" : "Communication & Life Skills (EN 1001)", 
+    "IS_1001" : "Programming and Problem Solving (IS 1001)", 
+    "IS_1002" : "Computer Systems (IS 1002)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31d45a19334926cc51d1fc"), 
+    "uIndex_no" : "2015is110", 
+    "ENH_1001" : "Communication & Life Skills (EN 1001)", 
+    "IS_1001" : "Programming and Problem Solving (IS 1001)", 
+    "IS_1002" : "Computer Systems (IS 1002)", 
+    "IS_1003" : "Information Systems Concepts (IS 1003)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31d71390feca1f602df2c8"), 
+    "uIndex_no" : "2015is110", 
+    "ENH_1001" : "Communication & Life Skills (EN 1001)", 
+    "IS_1001" : "Programming and Problem Solving (IS 1001)", 
+    "IS_1002" : "Computer Systems (IS 1002)", 
+    "IS_1003" : "Information Systems Concepts (IS 1003)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}

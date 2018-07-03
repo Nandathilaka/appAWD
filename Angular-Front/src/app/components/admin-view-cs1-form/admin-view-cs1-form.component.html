@@ -1,0 +1,134 @@
+<div #content1>
+  <h2>1<sup>st</sup> Year 1<sup>st</sup> Semester Repeat all Students</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">ENH 1101</th>
+        <th scope="col">SCS 1101</th>
+        <th scope="col">SCS 1102</th>
+        <th scope="col">SCS 1103</th>
+        <th scope="col">SCS 1104</th>
+        <th scope="col">SCS 1105</th>
+        <th scope="col">SCS 1106</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let csRepeatViews of csRepeatViewss">
+        <th>{{csRepeatViews.uIndex_no}}</th>
+        <td>{{csRepeatViews.ENH_1101}}</td>
+        <td>{{csRepeatViews.SCS_1101}}</td>
+        <td>{{csRepeatViews.SCS_1102}}</td>
+        <td>{{csRepeatViews.SCS_1103}}</td>
+        <td>{{csRepeatViews.SCS_1104}}</td>
+        <td>{{csRepeatViews.SCS_1105}}</td>
+        <td>{{csRepeatViews.SCS_1106}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button type="button" class="btn btn-success" (click)="downloadPDF1()">Report</button>
+  <br>
+  <br>
+</div>
+<br>
+<br>
+<div #content2>
+    <h2>2<sup>nd</sup> Year 2<sup>nd</sup> Semester Repeat all Students</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">ENH 2101</th>
+        <th scope="col">SCS 2101</th>
+        <th scope="col">SCS 2103</th>
+        <th scope="col">SCS 2104</th>
+        <th scope="col">SCS 2103</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let csRepeatViews of csRepeatViewss">
+        <th>{{csRepeatViews.uIndex_no}}</th>
+        <td>{{csRepeatViews.ENH_2101}}</td>
+        <td>{{csRepeatViews.SCS_2101}}</td>
+        <td>{{csRepeatViews.SCS_2103}}</td>
+        <td>{{csRepeatViews.SCS_2104}}</td>
+        <td>{{csRepeatViews.SCS_2105}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button type="button" class="btn btn-success" (click)="downloadPDF2()">Report</button>
+  <br>
+  <br>
+</div>
+<br>
+<br>
+<div #content3>
+    <h2>3<sup>3r</sup> Year 3<sup>rd</sup> Semester Repeat all Students</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">SCS 3101</th>
+        <th scope="col">SCS 3102</th>
+        <th scope="col">SCS 3103</th>
+        <th scope="col">SCS 3104</th>
+        <th scope="col">SCS 3105</th>
+        <th scope="col">SCS 3106</th>
+        <th scope="col">SCS 3107</th>
+        <th scope="col">SCS 3108</th>
+        <th scope="col">SCS 3109</th>
+        <th scope="col">SCS 3110</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let csRepeatViews of csRepeatViewss">
+        <th>{{csRepeatViews.uIndex_no}}</th>
+        <td>{{csRepeatViews.SCS_3101}}</td>
+        <td>{{csRepeatViews.SCS_3102}}</td>
+        <td>{{csRepeatViews.SCS_3103}}</td>
+        <td>{{csRepeatViews.SCS_3104}}</td>
+        <td>{{csRepeatViews.SCS_3105}}</td>
+        <td>{{csRepeatViews.SCS_3106}}</td>
+        <td>{{csRepeatViews.SCS_3107}}</td>
+        <td>{{csRepeatViews.SCS_3108}}</td>
+        <td>{{csRepeatViews.SCS_3109}}</td>
+        <td>{{csRepeatViews.SCS_3110}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <br>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Index</th>
+        <th scope="col">SCS 3111</th>
+        <th scope="col">SCS 3112</th>
+        <th scope="col">SCS 3113</th>
+        <th scope="col">SCS 3114</th>
+        <th scope="col">SCS 3115</th>
+        <th scope="col">SCS 3116</th>
+        <th scope="col">SCS 3118</th>
+        <th scope="col">SCS 3119</th>
+        <th scope="col">SCS 3120</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let csRepeatViews of csRepeatViewss">
+        <th>{{csRepeatViews.uIndex_no}}</th>
+        <td>{{csRepeatViews.SCS_3111}}</td>
+        <td>{{csRepeatViews.SCS_3112}}</td>
+        <td>{{csRepeatViews.SCS_3113}}</td>
+        <td>{{csRepeatViews.SCS_3114}}</td>
+        <td>{{csRepeatViews.SCS_3115}}</td>
+        <td>{{csRepeatViews.SCS_3116}}</td>
+        <td>{{csRepeatViews.SCS_3118}}</td>
+        <td>{{csRepeatViews.SCS_3119}}</td>
+        <td>{{csRepeatViews.SCS_3120}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button type="button" class="btn btn-success" (click)="downloadPDF3()">Report</button>
+  <br>
+  <br>
+</div>

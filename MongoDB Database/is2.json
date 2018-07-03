@@ -1,0 +1,7 @@
+{ 
+    "_id" : ObjectId("5b32399a48e1382430c5b148"), 
+    "uIndex_no" : "2015is110", 
+    "IS_1008" : "Financial Accounting (IS 1008)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,17 @@
+{ 
+    "_id" : ObjectId("5b31aa4b72b1571cd8d11208"), 
+    "uIndex_no" : "15001071", 
+    "ENH_1102" : "Enhancement II (ENH 1102)", 
+    "SCS_1107" : "Bike", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b31d2e4266f4f1e94980353"), 
+    "uIndex_no" : "15001071", 
+    "ENH_1102" : "Enhancement II (ENH 1102)", 
+    "SCS_1107" : "Software Engineering I (SCS 1107)", 
+    "SCS_1109" : "Programming II (SCS 1109)", 
+    "receipt_no" : "12345", 
+    "__v" : NumberInt(0)
+}

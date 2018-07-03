@@ -1,0 +1,67 @@
+<div #content1>
+    <h2>1<sup>st</sup> Year 2<sup>nd</sup> Semester Repeat all Students</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Index</th>
+          <th scope="col">ENH 1102</th>
+          <th scope="col">SCS 1107</th>
+          <th scope="col">SCS 1108</th>
+          <th scope="col">SCS 1109</th>
+          <th scope="col">SCS 1110</th>
+          <th scope="col">SCS 1111</th>
+          <th scope="col">SCS 1112</th>
+          <th scope="col">SCS 1113</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let csRepeatViews of csRepeatViewssec">
+          <th>{{csRepeatViews.uIndex_no}}</th>
+          <td>{{csRepeatViews.ENH_1102}}</td>
+          <td>{{csRepeatViews.SCS_1107}}</td>
+          <td>{{csRepeatViews.SCS_1108}}</td>
+          <td>{{csRepeatViews.SCS_1109}}</td>
+          <td>{{csRepeatViews.SCS_1110}}</td>
+          <td>{{csRepeatViews.SCS_1111}}</td>
+          <td>{{csRepeatViews.SCS_1112}}</td>
+          <td>{{csRepeatViews.SCS_1113}}</td>
+        </tr>
+      </tbody>
+    </table>
+    <button type="button" class="btn btn-success" (click)="downloadPDF1()">Report</button>
+    <br>
+    <br>
+  </div>
+<br><br>
+  <div #content2>
+      <h2>2<sup>nd</sup> Year 2<sup>nd</sup> Semester Repeat all Students</h2>
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Index</th>
+            <th scope="col">SCS 2106</th>
+            <th scope="col">SCS 2107</th>
+            <th scope="col">SCS 2108</th>
+            <th scope="col">SCS 2109</th>
+            <th scope="col">SCS 2110</th>
+            <th scope="col">SCS 2111</th>
+            <th scope="col">SCS 2112</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let csRepeatViews of csRepeatViewssec">
+            <th>{{csRepeatViews.uIndex_no}}</th>
+            <td>{{csRepeatViews.SCS_2106}}</td>
+            <td>{{csRepeatViews.SCS_2107}}</td>
+            <td>{{csRepeatViews.SCS_2108}}</td>
+            <td>{{csRepeatViews.SCS_2109}}</td>
+            <td>{{csRepeatViews.SCS_2110}}</td>
+            <td>{{csRepeatViews.SCS_2111}}</td>
+            <td>{{csRepeatViews.SCS_2112}}</td>
+          </tr>
+        </tbody>
+      </table>
+      <button type="button" class="btn btn-success" (click)="downloadPDF2()">Report</button>
+      <br>
+      <br>
+    </div>
